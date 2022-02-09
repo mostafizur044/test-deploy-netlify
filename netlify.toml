@@ -1,0 +1,4 @@
+[build]
+    base = ""
+    publish = "dist/netlify-demo"
+    command = "ng build"
